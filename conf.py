@@ -183,7 +183,8 @@ html_context = {
 # directly to the root of the documentation.
 #
 html_extra_path = [
-    'robots.txt'
+    'robots.txt',
+    'google84b45f60b246a093.html'
 ]
 
 # If not None, a 'Last updated on:' timestamp is inserted at every page
